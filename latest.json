@@ -1,0 +1,11 @@
+﻿{
+    "platforms":  {
+                      "windows-x86_64":  {
+                                             "url":  "https://github.com/kule-2025/bisuzhiyin-releases/releases/download/v0.11.2/BiSuZhiYin_0.11.2_x64-setup.exe",
+                                             "signature":  null
+                                         }
+                  },
+    "pub_date":  "2026-10-09T00:00:00Z",
+    "version":  "0.11.2",
+    "notes":  "v0.11.2 笔溯之印发布版本"
+}
