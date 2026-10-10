@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWs0dFJwS3NGT2x2Q2ZJT3VHV0FKMFJzZFN1UHZjc2o0bkEvRUZXS1dNWkxDOE5lV0pIYTNRamhobUF5YzRiTEJLUjQ3dDVXVXd3R1ViWU5kcGdlM3dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTg2NjAzCWZpbGU6QmlTdVpoaVlpbl8wLjExLjNfeDY0LXNldHVwLmV4ZQoxNmlhNUhINlJvZnljMHdpbjV0bjZaNkY2T200UXppcGl4d2RtVGtYTjAxa2trRDk5aGJwY3kxd2N5bVdwSFJIcHYwcXZESmIyU0s0VzhNZkkycXNCdz09Cg==",
-                                             "url":  "https://github.com/kule-2025/bisuzhiyin-releases/releases/download/v0.11.3/BiSuZhiYin_0.11.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRWlPRndRdzN3bEhtNG56Mzl2RWhQckltc0FraS9MQmVZOTcrOEdLZklmOUVFU0hRUnkyTFoyUWJzb1NPQmVMQnZybFg2VmkvT2xoUzlWelNpM3ZoL0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTk3NTI3CWZpbGU6QmlTdVpoaVlpbl8wLjExLjRfeDY0LXNldHVwLmV4ZQpncGU5dDV3a00xNjFjY1hDbEVLckx4TjRZanArak16MkpSNXB3dEhKTmZWY0grQjhIc2lBZ2xRTnVUaHB2ZDJQSTU2SmlSaTNxbHJIM0dnRzBFdjdDZz09Cg==",
+                                             "url":  "https://github.com/kule-2025/bisuzhiyin-releases/releases/download/v0.11.4/BiSuZhiYin_0.11.4_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-10T00:00:00Z",
-    "version":  "0.11.3",
-    "notes":  "笔溯之印 v0.11.3 品牌全面升级版本"
+    "pub_date":  "2026-10-10T01:59:21Z",
+    "version":  "0.11.4",
+    "notes":  "笔溯之印 v0.11.4 全量功能审查与深度修复版本：新建作品空路径提示+UI增强、image/video模型健康检查端点修复、capabilities自动推断、模型聚合面板删除错误处理、仓库卫生加固"
 }
