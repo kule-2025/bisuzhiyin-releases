@@ -1,11 +1,11 @@
 {
-  "version": "0.11.4",
-  "notes": "README产品介绍重写 + About简介更新 + NSIS自定义安装路径支持",
-  "pub_date": "2026-10-10T02:00:00Z",
+  "version": "0.11.6",
+  "notes": "v0.11.6 系统性深度修复：4个死代码模块物理删除；蜂群历史run持久化；账号双轨对账(v77迁移)；支付安全fail-closed加固；WorkflowEditor applyNodes重排；OutlinePage toast类型修复",
+  "pub_date": "2026-10-11T00:52:16Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/kule-2025/bisuzhiyin-releases/releases/download/v0.11.4/BiSuZhiYin_0.11.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW9UVWNBdEdWcWxWTVhvdmdXRkdjaTJJSmNXT0FtUFVEcVJaV2JJUnpqaVJSd2ZyM3ZTcDErZWpHTzVIZFpxRDVwZlpvOW15NTdMYm5yTHFPNGhCWkFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjI3MDU1CWZpbGU6QmlTdVpoaVlpbl8wLjExLjRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuMTEuNAoyckQvcDRqMXRMRXpKYU9zQ1VUc1JMT2lwdVF2WjNsenhSaGx2bUgzbHB6d1ZjSlhiaHVKak1LOXk2eWs0YjMraVBMY1FmclUvSU0yYnhJanNLQytEZz09Cg=="
+      "url": "https://github.com/kule-2025/bisuzhiyin-releases/releases/download/v0.11.6/bisuzhiyin_0.11.6_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW00RDJ2Mld3VG11OXhRQVVWR1dUbm9qajdzQXJHYUxlNGZDU3N1NXZyRkdKVmJHZUhybHRTSy9ramxyUkZuL2hWb0w0WUpUdEJjSWpYcFdmQzFzUmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjc5ODUxCWZpbGU656yU5rqv5LmL5Y2wXzAuMTEuNl94NjQtc2V0dXAuZXhlCktqSGptK1l6MXVQdE1VU3djaDZ2Z1VCMWsyRzVTR0pWdWVtSHRZK1FjdU5OZEw3SzIxR2NZVzBMS29NN2poSy9MS0V6QWlpeVNuMFNXdllsOTFSWEJBPT0K"
     }
   }
 }
