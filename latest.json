@@ -1,7 +1,7 @@
 {
   "version": "0.11.6",
-  "notes": "v0.11.6 系统性深度修复：4个死代码模块物理删除；蜂群历史run持久化；账号双轨对账(v77迁移)；支付安全fail-closed加固；WorkflowEditor applyNodes重排；OutlinePage toast类型修复",
-  "pub_date": "2026-10-11T00:52:16Z",
+  "notes": "v0.11.6 系统性深度修复+NSIS自定义安装路径：4个死代码模块物理删除；蜂群历史run持久化；账号双轨对账(v77迁移)；支付安全fail-closed加固；安装向导支持自定义安装目录(installMode=both)",
+  "pub_date": "2026-10-11T05:23:19Z",
   "platforms": {
     "windows-x86_64": {
       "url": "https://github.com/kule-2025/bisuzhiyin-releases/releases/download/v0.11.6/bisuzhiyin_0.11.6_x64-setup.exe",
