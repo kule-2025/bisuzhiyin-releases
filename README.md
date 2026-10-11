@@ -2,7 +2,7 @@
 
 写小说、写故事、写内容——从第一个字到发布变现，在一个地方完成。
 
-> **当前版本：0.11.4**
+> **当前版本：0.11.6**
 
 ## 你是不是也这样？
 
@@ -49,3 +49,13 @@
 ## 反馈与支持
 
 用得不爽、发现 bug、想要新功能——都可以提。你的反馈决定下一个版本做什么。
+
+## 更新日志
+
+### v0.11.6
+- 系统性深度修复：4个死代码模块物理删除（tomato.ts/RankBoard/RankingTrendChart/FormulaLibrary）
+- 蜂群协作：历史 run 持久化到 SQLite，支持查看历史运行记录
+- 账号体系：v77 数据库迁移实现 users.tier 与 t_memberships 双轨对账对齐
+- 支付安全：验签 fail-closed 加固 + 订单防重放 + 渠道取自 DB 而非入参
+- 编译修复：WorkflowEditor applyNodes 重排、OutlinePage toast 类型修复
+- 安装包：40.47 MB，支持 NSIS 自定义安装路径
