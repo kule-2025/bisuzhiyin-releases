@@ -1,0 +1,11 @@
+{
+  "version": "0.11.20",
+  "notes": "笔溯之印 ==SUPPRESS== release",
+  "pub_date": "2026-10-27T05:45:24Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdUlCZlBNSmlHU1BiVzVFMVIyUWNiM0ZGWnVxejMxN2JSaGs3L012TTVGQkpzemZpMXFYTG9MVG5ibE5ReWYreTBDR3ZWMDB5NU80WXdjdjJxS1E2VzNyeFhXYzRlVXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc5ODA5CWZpbGU6QmlTdVpoaVlpbl8wLjExLjIwX3g2NC1zZXR1cC5leGUKYUlWYm9YVkpqZVY1cVdrWUoyYVFRaUk4RkEzSnNycGxVZ0VaaU1CcCtCcXlucktjdkFHbERtTmxqR2w3cDRJTXVIdW9JY1lWL0s1bTljM0ZNRHZUQkE9PQo=",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisuzhiyin-releases/main/v0.11.20/BiSuZhiYin_0.11.20_x64-setup.exe"
+    }
+  }
+}

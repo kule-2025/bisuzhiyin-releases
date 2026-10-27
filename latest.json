@@ -1,11 +1,11 @@
 {
-  "version": "0.11.6",
-  "notes": "BiSuZhiYin v0.11.6 系统性深度修复：4个死代码模块物理删除；蜂群历史run持久化；账号双轨对账(v77迁移)；支付安全fail-closed加固；NSIS自定义安装路径(installMode=both)",
-  "pub_date": "2026-10-11T07:26:35Z",
+  "version": "0.11.20",
+  "notes": "笔溯之印 ==SUPPRESS== release",
+  "pub_date": "2026-10-27T05:45:24Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/kule-2025/bisuzhiyin-releases/releases/download/v0.11.6/BiSuZhiYin_0.11.6_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaHdFb01jSnBlRW00RDJ2Mld3VG11OXhRQVVWR1dUbm9qajdzQXJHYUxlNGZDU3N1NXZyRkdKVmJHZUhybHRTSy9ramxyUkZuL2hWb0w0WUpUdEJjSWpYcFdmQzFzUmdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNjc5ODUxCWZpbGU656yU5rqv5LmL5Y2wXzAuMTEuNl94NjQtc2V0dXAuZXhlCktqSGptK1l6MXVQdE1VU3djaDZ2Z1VCMWsyRzVTR0pWdWVtSHRZK1FjdU5OZEw3SzIxR2NZVzBMS29NN2poSy9MS0V6QWlpeVNuMFNXdllsOTFSWEJBPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdUlCZlBNSmlHU1BiVzVFMVIyUWNiM0ZGWnVxejMxN2JSaGs3L012TTVGQkpzemZpMXFYTG9MVG5ibE5ReWYreTBDR3ZWMDB5NU80WXdjdjJxS1E2VzNyeFhXYzRlVXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDc5ODA5CWZpbGU6QmlTdVpoaVlpbl8wLjExLjIwX3g2NC1zZXR1cC5leGUKYUlWYm9YVkpqZVY1cVdrWUoyYVFRaUk4RkEzSnNycGxVZ0VaaU1CcCtCcXlucktjdkFHbERtTmxqR2w3cDRJTXVIdW9JY1lWL0s1bTljM0ZNRHZUQkE9PQo=",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisuzhiyin-releases/main/v0.11.20/BiSuZhiYin_0.11.20_x64-setup.exe"
     }
   }
 }
