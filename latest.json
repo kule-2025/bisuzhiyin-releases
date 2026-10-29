@@ -1,11 +1,11 @@
 {
-  "version": "0.11.21",
-  "notes": "笔溯之印 v0.11.21：团队协作云端化、章节批量消痕、内容安全前置、大文件分块上传与多项稳定性修复",
-  "pub_date": "2026-10-28T01:30:42Z",
+  "version": "0.11.22",
+  "notes": "笔溯之印 v0.11.22：LLM 上帝模块拆分收尾、对抗审查五轮闭环、PIPL 上架合规修复、更新签名密钥轮换",
+  "pub_date": "2026-10-29T07:12:02Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdUlCZlBNSmlHU0hSemIraklCb0k0dUp2N2hNNnhDRm9mUUhHc0lFUzZodGtrY3AvYzIxOFdMRGsyaFVxYUZlNUhJSkpqUXV4emQ0TVJQODNZMDFFa1loL3RCUE9NM1F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTUwOTk5CWZpbGU6QmlTdVpoaVlpbl8wLjExLjIxX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjIxCmNnbkkwRFV5azR1SUVEUUlUK2RmWVlwbHpHVU9CT25LeHFYanB4TFRoMUg1WUpwRS9OT05FS2VrSC9ob0tWZ2ZKTXlQTjljNFNKcTVmdDJwZFZldUFnPT0K",
-      "url": "https://raw.githubusercontent.com/kule-2025/bisuzhiyin-releases/main/v0.11.21/BiSuZhiYin_0.11.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdUlCZlBNSmlHU043SmIzMVdIbXJETGdUV0NLNzdNcGViMDVDdld5TWhETHBQMllJcit6YUQ4YnpvNGV4VGQ1ODIzVkYwMERVYTAwUHpGSVNEMjI3VXU2UWxYSG1CNVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjU1OTg0CWZpbGU6QmlTdVpoaVlpbl8wLjExLjIyX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjIyCmhHV0FzaW51Q0kwKzBMNE5NM1ZXRGxkdHdwNEd4RUVONm1xb0MvZjVJRDZNL3kxdHorN2kzcE4wdjhyYUlQRVBucC9EN0xOcGFwSE5wdHZWRlpJbkNBPT0K",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisuzhiyin-releases/main/v0.11.22/BiSuZhiYin_0.11.22_x64-setup.exe"
     }
   }
 }
