@@ -1,7 +1,7 @@
 {
   "version": "0.11.24",
   "notes": "笔溯之印 v0.11.24：IP 全链路生产可用性闭环 · 条漫配图并发渲染与实时进度 · 全量审计与健壮性加固 · 会员体系本地许可证移除",
-  "pub_date": "2026-11-01T04:34:18Z",
+  "pub_date": "2026-11-01T04:35:39Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdUlCZlBNSmlHU05ESnp0VTNyOE5STDhsUGxJSHYyMzRxRmd6TEZjRGhRUjhsOWtBaVFMMGFGVFd6VnV0dUk2VHZnaVNFZXZ6N0RuVnVNSU5FdXNTS3c4eXYyQk5LVEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNTA3MzcxCWZpbGU6QmlTdVpoaVlpbl8wLjExLjI0X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjI0CjZ0L3dEckZQckR5Y0NTOEphWnh6WmN4d1BVU3NwejRGT2lxV1FuSjExVjZZQUk5TlJlQ2J5S25FcmtjK2Y1V1lUK3BkMGtkOHowY0l5Z09GWlNHd0FnPT0K",
