@@ -1,0 +1,11 @@
+{
+  "version": "0.11.26",
+  "notes": "v0.11.26: AI fingerprint inspection and bestseller technique deconstruction; inspection accuracy, full-chapter coverage and performance hardening; pricing and entitlement alignment; stability fixes",
+  "pub_date": "2026-11-05T10:53:24Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdUlCZlBNSmlHU0VkUmpjbDh3aUxvQnRFaG5DZVVuRGk1UW8yRlhYR2N3d1l0Q0hSWW45ZjgxSzBCckhDTDg4UTdITGgxWDlTUWZJcHM4ZHB3a3lyN3BOaVpZTEpZeGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzODc1ODkxCWZpbGU6QmlTdVpoaVlpbl8wLjExLjI2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjExLjI2CkJYTUVubEpBM1dodi9lcWNTUndvdnk1SWJWajZreGY5SXJCbFQ5ZkpYY21IZXRiWVBObUE0RnJKbm84Tk1NbEVLTnpkOWtDSVM0RVBpcVJQOUQySkJ3PT0K",
+      "url": "https://raw.githubusercontent.com/kule-2025/bisuzhiyin-releases/main/v0.11.26/BiSuZhiYin_0.11.26_x64-setup.exe"
+    }
+  }
+}
